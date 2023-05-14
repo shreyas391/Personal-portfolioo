@@ -2,6 +2,7 @@ body {
     margin: 0px;
     text-align: center;
     font-family: 'Roboto', sans-serif;
+    background-color: #ECF9FF;
 }
 
 .top-container img{
@@ -57,7 +58,7 @@ p {
 
 hr {
     border-style: dotted none none ;
-    background-color: #ffffff;
+    background-color: #ECF9FF;
     width: 80px;
     border-width: 8px;
 }
@@ -83,12 +84,38 @@ hr {
 }
 
 .movie {
-    width: 300px;
+    width: 310px;
     margin-top: 8%;
 }
 
 .movie-text {
-    margin-bottom: 1%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+}
+
+#footer {
+    background-color: #b8d3df;
+    height: 16em;
+}
+
+table {
+    display: inline-block;
+    padding-top: 5%;
+}
+
+#github {
+    padding-right: 70px;
+}
+
+#twitter {
+    padding-right: 70px;
+} 
+
+#instagram {
+    padding-right: 70px;
+}
+
+#address {
     margin-top: 2%;
 }
 
@@ -121,12 +148,38 @@ hr {
     }
 
     .astronomy {
-        width: 290px;
+        width: 270px;
         margin-top: 20%;
     }
 
     .space-text {
         margin-top: 6%;
+    }
+
+    .movie {
+        width: 265px;
+        margin-right: 5%;
+    }
+
+    .movie-text {
+        margin-bottom: 15%;
+        margin-top: 5%;
+    }
+    
+    table {
+        padding-top: 15%;
+    }
+    
+    #github {
+        padding-right: 50px;
+    }
+    
+    #twitter {
+        padding-right: 50px;
+    } 
+
+    #address {
+        margin-top: 10%;
     }
     
 }
