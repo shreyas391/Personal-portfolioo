@@ -167,7 +167,8 @@ table {
     }
     
     table {
-        padding-top: 15%;
+        padding-top: 10%;
+        padding-left: 10%;
     }
     
     #github {
@@ -181,11 +182,10 @@ table {
     #address {
         margin-top: 21%;
     }
-    
+
     #gmail {
         position: absolute;
         top: 50%;
         left: 40%;
     }
-    
 }
