@@ -179,7 +179,13 @@ table {
     } 
 
     #address {
-        margin-top: 10%;
+        margin-top: 21%;
+    }
+    
+    #gmail {
+        position: absolute;
+        top: 50%;
+        left: 40%;
     }
     
 }
