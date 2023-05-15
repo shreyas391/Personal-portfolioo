@@ -119,6 +119,10 @@ table {
     margin-top: 2%;
 }
 
+#gmail {
+    cursor: pointer;
+}
+
 @media screen and (max-width: 480px){
     .title { 
         top: 27%;
