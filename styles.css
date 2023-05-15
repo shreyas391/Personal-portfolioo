@@ -169,6 +169,7 @@ table {
     table {
         padding-top: 10%;
         padding-left: 10%;
+        display: inline-block;
     }
     
     #github {
